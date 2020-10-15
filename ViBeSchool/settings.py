@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '1uylm0d7%5+006a=fdt&s!98-z(#ken-i#kg)tgxoale3*+h=*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['temach.herokuapp.com', '127.0.0.1']
 
